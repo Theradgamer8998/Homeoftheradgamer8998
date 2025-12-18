@@ -9,7 +9,14 @@ h1{
   border-style: double; 
 }
 p{
-  
+   font-weight: bold;
+  font-size: 10;
+  border-style: double;
+  font-family:serif;
+  display:run-in;
+  object-position: center;
+  text-align: center;
+  background-color:antiquewhite;
 }
 h2{
 }
