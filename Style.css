@@ -1,1 +1,11 @@
-
+body{
+  background-color: red;
+  
+}
+h1{
+  align-self: center;
+  text-align: center;
+  background-color: yellow;
+  border-style: double;
+  
+}
