@@ -6,6 +6,29 @@ h1{
   align-self: center;
   text-align: center;
   background-color: yellow;
-  border-style: double;
+  border-style: double; 
+}
+p{
   
+}
+h2{
+}
+h3{
+}
+h4{ 
+}
+h5{
+}
+h6{
+}
+a{
+  text-align: center;
+  border-style:ridge;
+  border-color: whitesmoke;
+  background-color:azure;
+  text-decoration: inherit;
+  text-indent: inherit;
+  font-style: inherit;
+  font-family: sans-serif;
+  align-self: auto;
 }
