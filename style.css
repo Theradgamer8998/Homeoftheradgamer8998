@@ -1,10 +1,10 @@
 :root.theme-cosmic {
+     bakcground-color: blue;
     --background-image: url("Images/Background-Cosmos.png");
-  bakcground-color: blue;
 }
 :root {
+     background-color: black;
     --background-image: url("Images/background.png");
-  background-color: black;
 }
 h1{
   align-self: center;
