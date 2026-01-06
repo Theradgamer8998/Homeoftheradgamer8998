@@ -42,10 +42,7 @@ h6{
 }
   a:hover{
   font-size: 24;
-    text-align: center;
-  border-style:ridge;
-  border-color: whitesmoke;
-  background-color:azure;
+  text-align: center;
   text-decoration: inherit;
   text-indent: inherit;
   font-style: inherit;
