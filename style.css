@@ -20,8 +20,10 @@ p{
   background-color:antiquewhite;
 }
 h2{
-  border: Ridge;
+  border-style:ridge;
   Background-color: darkblue;
+  border-color: whitesmoke;
+  text-decoration: none;
 }
 h3{
 }
@@ -46,7 +48,7 @@ h6{
   a:hover{
   font-size: 24;
   text-align: center;
-  text-decoration: inherit;
+  text-decoration: none;
   text-indent: inherit;
   font-style: inherit;
   font-family: sans-serif;
