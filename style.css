@@ -69,3 +69,10 @@ transform: Y -15;
   border: 2 solid black;
   margin: 10;
 }
+.mainstyle {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 20;
+}
+
