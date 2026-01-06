@@ -53,7 +53,7 @@ h6{
   align-self: auto;
 }
 .buttons: hover{
-transform: Y -15;
+transform: -15;
   transition: transform 0.3 ease-in-out;
   cursor: pointer;
 }
@@ -68,6 +68,10 @@ transform: Y -15;
   text-align: center;
   border: 2 solid black;
   margin: 10;
+  border: ridge;
+  border-width: thick;
+  border-color: antiquewhite;
+  transition: transform 0.3 ease-in-out;
 }
 .mainstyle {
   display: flex;
