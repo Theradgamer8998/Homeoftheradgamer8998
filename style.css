@@ -76,4 +76,7 @@ transformY: -15;
   justify-content: center;
   margin: 20;
 }
+.buttons img{
+  width: 100
+}
 
