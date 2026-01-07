@@ -67,10 +67,11 @@ transformY: -15;
   transition: transform 0.3 ease-in-out;
   background-color: antique-white;
   background-image: url("Images/Background-Cosmos.png");
-  color: antiquewhite;
+  color: whitesmoke;
   text-decoration: none;
   text-transform: capitalize;
   background-color: whitesmoke;
+  font-family: fantasy;
 }
 .mainstyle {
   display: flex;
