@@ -86,31 +86,24 @@ transformY: -15;
 .img{
   width: 10;
 }
-.audio-player {
-    width: 300;
-    margin: 20;
-    border: 1 solid #ccc;
-    padding: 10;
+.music-player {
+    /* Add styling for your player container */
+    width: 300px;
+    border: 1px solid #ccc;
+    padding: 10px;
     text-align: center;
 }
 
 .song-info {
-    margin-bottom: 10;
+    margin-bottom: 10px;
 }
 
 .song-title {
+    font-size: 1.2em;
     font-weight: bold;
-    font-size: 1.1;
-    margin: 0;
 }
 
 .artist-name {
-    font-size: 0.9;
+    font-size: 0.9em;
     color: #666;
-    margin: 0;
 }
-
-audio {
-    width: 100;
-}
-
