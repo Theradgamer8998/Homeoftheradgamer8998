@@ -87,20 +87,10 @@ transformY: -15;
   width: 10;
 }
 .music-player {
-  width: 300px;
+width: 300px;
+  border: 1px solid #ccc;
   padding: 10px;
   text-align: center;
-  display: flex;
-  flex-direction: column;
-  text-align: center;
-  border: 2 solid black;
-  margin: 10;
-  border: ridge;
-  border-width: thick;
-  border-color: antiquewhite;
-  text-decoration: none;
-  text-transform: capitalize;
-  background-color: whitesmoke;
   background-image: url("Images/Musicbackground.jpeg");
   padding:10px;
 }
