@@ -107,15 +107,15 @@ transformY: -15;
 }
 
 .song-info {
-    margin-bottom: 10;
+    margin-bottom: 10px;
 }
 
 .song-title {
-    font-size: 1.2;
+    font-size: 1.2em;
     font-weight: bold;
 }
 
 .artist-name {
-    font-size: 0.9;
+    font-size: 0.9em;
     color: #666;
 }
