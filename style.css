@@ -88,7 +88,7 @@ transformY: -15;
 }
 .music-player {
     /* Add styling for your player container */
-  background-image: url("Images/Musicbackground2.jpeg");
+  background-image: url("Images/Musicbackground.jpeg");
     width: 300px;
     border: 1px solid #ccc;
     padding: 10px;
