@@ -3,12 +3,12 @@ const songs = [
     {
         title: "Song Title 1",
         artist: "Artist Name 1",
-        src: "your-song1.mp3"
+        src: "Music/A Dead Zone.mp3"
     },
     {
         title: "Song Title 2",
         artist: "Artist Name 2",
-        src: "your-song2.mp3"
+        src: "Music/A Dead Zone.mp3"
     }
 ];
 
