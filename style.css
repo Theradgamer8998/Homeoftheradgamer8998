@@ -118,5 +118,12 @@ transformY: -15;
   gap: 20px;           
   padding: 20px;
 }
+.game-button {
+  background-image: url("Images/Musicbackground.jpeg");
+    width: 300px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+}
 
 
