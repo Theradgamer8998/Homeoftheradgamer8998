@@ -2,6 +2,8 @@ img{
   border-style: double;
   object-position: center;
   border-color: antiquewhite;
+  max-width: 300px; 
+  height: auto;    
 }
 body{
 background-color: black;
