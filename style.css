@@ -128,9 +128,10 @@ transformY: -15;
     border: 1px solid #ccc;
     padding: 10px;
     text-align: center;
+  color: DarkGoldenRod;
 }
 a{
-  color: yellow;
+  color: DarkGoldenRod;
 }
 
 
