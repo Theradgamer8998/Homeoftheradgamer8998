@@ -59,7 +59,6 @@ a{
 transformY: -15;
   transition: transform 0.3 ease-in-out;
   cursor: pointer;
-  color: whitesmoke;
 }
 .buttons{
   width: 325;
